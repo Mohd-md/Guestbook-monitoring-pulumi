@@ -196,9 +196,15 @@ Monitoring stack successfully deployed using Pulumi:
 
 1. Grafana Dashboard
 ![Grafana](imgs/grafana-dashboard.png)
+![Grafana](imgs/grafana-dashboard2.png)
 
 2. Prometheus Targets
 ![Prometheus](imgs/prometheus-targets.png)
+![Prometheus](imgs/prometheus-service.png)
 
 3. Kubernetes Pods
 ![Pods](imgs/pods-running.png)
+
+4. Docker-desktop
+![Docker](imgs/Docker-desktop-1.png)
+![Docker](imgs/Docker-desktop-2.png)
